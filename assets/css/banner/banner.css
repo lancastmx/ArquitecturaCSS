@@ -1,3 +1,15 @@
 .banner{
     position: relative;
+} 
+@media screen and  (min-width:0) {
+    .banner {
+       
+    }
+    
+}
+@media screen and  (min-width:768px) {
+    .banner {
+        
+    }
+    
 }

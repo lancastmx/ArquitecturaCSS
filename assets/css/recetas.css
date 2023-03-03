@@ -2,5 +2,23 @@
     background: #dab997;
     display: flex;
     flex-wrap: wrap;
-    padding: 5rem 0 0 5rem;
+    
+}
+@media screen and (min-width:0) {
+    .recetan {
+        padding: 1rem 0 0 1rem;
+    }
+    
+}
+@media screen and  (min-width:768px) {
+    .recetan {
+        padding: 3rem 0 0 3rem;
+    }
+    
+}
+@media screen and  (min-width:992px) {
+    .recetan {
+        padding: 5rem 0 0 5rem;
+    }
+    
 }
