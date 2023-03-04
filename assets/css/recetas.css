@@ -5,19 +5,19 @@
     
 }
 @media screen and (min-width:0) {
-    .recetan {
-        padding: 1rem 0 0 1rem;
+    .recetas {
+        padding: 5rem 0 0 1rem;
     }
     
 }
 @media screen and  (min-width:768px) {
-    .recetan {
-        padding: 3rem 0 0 3rem;
+    .recetas {
+        padding: 5rem 0 0 2.5rem;
     }
     
 }
 @media screen and  (min-width:992px) {
-    .recetan {
+    .recetas {
         padding: 5rem 0 0 5rem;
     }
     
